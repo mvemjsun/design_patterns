@@ -46,3 +46,5 @@ In order to use the strategy we would need to initialize the ```context``` class
   ukCalculator = SalaryCalculator.new(UKTaxCalculator.new)
   ...
 ```
+
+[Back] (https://github.com/mvemjsun/design_patterns/blob/master/README.md)

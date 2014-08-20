@@ -5,7 +5,7 @@
 1. [Template method] (https://github.com/mvemjsun/design_patterns/tree/master/A_template_method)
 2. [Observer]
 3. [Composite]
-4. [Strategy]
+4. [Strategy] (https://github.com/mvemjsun/design_patterns/tree/master/B_strategy)
 5. [Iterator]
 6. [Command]
 7. [Proxy]
