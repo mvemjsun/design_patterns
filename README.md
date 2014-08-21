@@ -3,7 +3,7 @@
 
 ## Various design patterns 
 1. [Template method] (https://github.com/mvemjsun/design_patterns/tree/master/A_template_method)
-2. [Observer]
+2. [Observer] (https://github.com/mvemjsun/design_patterns/tree/master/C_observer)
 3. [Composite]
 4. [Strategy] (https://github.com/mvemjsun/design_patterns/tree/master/B_strategy)
 5. [Iterator]
