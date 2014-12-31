@@ -67,3 +67,5 @@ jane.register(payroll)
 jane.raise_salary(2100)
 
 ```
+
+[Back] (https://github.com/mvemjsun/design_patterns/blob/master/README.md)

@@ -90,3 +90,5 @@ hairCut4 = HaircutWithMohicanStyle.new((SimpleHaircut.new))
 hairCut4.cut_hair
 
 ```
+
+[Back] (https://github.com/mvemjsun/design_patterns/blob/master/README.md)
