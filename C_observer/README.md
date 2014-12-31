@@ -6,6 +6,8 @@ A simple implementation of the observer pattern will have the ```subject``` clas
 
 For example consider a simplistic view of a subject class called ```Employee``` and then their is an observer called ```Payroll```. Whenever the salary of an employee changes the ```Payroll``` department needs to update its database.
 
+![Image of Decorator](https://github.com/mvemjsun/design_patterns/blob/master/C_observer/observer.jpg)
+
 ### Example, Employee as Subject and Payroll as an observer
 
 ```ruby
