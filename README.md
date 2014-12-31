@@ -23,3 +23,4 @@
 2. [RSpec expectations] (http://rubydoc.info/gems/rspec-expectations)
 3. [RSpec mocks] (http://rubydoc.info/gems/rspec-mocks)
 4. [RSpec book] (http://pragprog.com/book/achbd/the-rspec-book)
+5. [Design Pattern] (http://designpatternsinruby.com)
