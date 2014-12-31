@@ -2,6 +2,8 @@
 
  As we saw in template design pattern that we rely on inheritance to get the template behaviour into our sub classes. In the strategy design pattern we aim towards delegation and not inheritance. The behaviour that can change is placed into its own strategy class (or may be a code block such as procs or lambdas) which is then used by the "context" class as needed, this is a way to "pull" the strategy as needed into the "context". 
 
+ ![Image of Strategy](https://github.com/mvemjsun/design_patterns/blob/master/B_strategy/strategy.jpg)
+
 ### Example, TaxCalculator 
 
 Below is a very simplistic view of a strategy that may be needed to calculate tax for different countries. Say we have different tax calculation ```strategies``` for different countries.
