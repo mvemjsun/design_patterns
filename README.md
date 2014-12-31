@@ -10,7 +10,7 @@
 6. [Command]
 7. [Proxy]
 8. [Adaptor]
-9. [Decorator]
+9. [Decorator] (https://github.com/mvemjsun/design_patterns/tree/master/I_Decorator)
 10. [Singleton]
 11. [Factory]
 12. [Builder]
