@@ -4,6 +4,8 @@ The decorator design pattern is useful when we have a basic class whose behaviou
 
 The decorator object is inserted between the component and the client to add its additional behaviour. This also helps in `chaining` of features. 
 
+![Image of Decorator](https://github.com/mvemjsun/design_patterns/blob/master/I_Decorator/decorator.jpg)
+
 ### Example, Haircuts !!
 
 We have an option of having a `SimpleHaircut` or one of the decorated haircuts. We can just chain the options that we want at run time. All the decorator objects have the same interface, some of them can add to the basic interface like the `HaircutWithMohicanStyle` class that adds the `style` method generated via the attr_reader method. 
