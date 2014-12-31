@@ -91,4 +91,33 @@ hairCut4.cut_hair
 
 ```
 
+Output
+```
+SimpleHaircut Initialized
+HaircutWithShampoo Initialized
+Giving you a SimpleHaircut
+Giving you a HaircutWithShampoo
+
+SimpleHaircut Initialized
+HaircutWithColour Initialized
+HaircutWithShampoo Initialized
+Giving you a SimpleHaircut
+Giving you a HaircutWithColour
+Giving you a HaircutWithShampoo
+
+SimpleHaircut Initialized
+HaircutWithColour Initialized
+HaircutWithShampoo Initialized
+HaircutWithMohicanStyle Initialized
+Giving you a SimpleHaircut
+Giving you a HaircutWithColour
+Giving you a HaircutWithShampoo
+Giving you a HaircutWithMohicanStyle
+
+SimpleHaircut Initialized
+HaircutWithMohicanStyle Initialized
+Giving you a SimpleHaircut
+Giving you a HaircutWithMohicanStyle
+```
+
 [Back] (https://github.com/mvemjsun/design_patterns/blob/master/README.md)
