@@ -1,4 +1,4 @@
-## Observer Design pattern
+## Iterator Design pattern
 
 There are two type of iterators in ruby, the first one is called an `external` iterator and the second one which is more common in ruby is called the `internal` iterator. External iterators can be controlled more by is but internal iterators yield the result of iteration to a block one by one without us being able to control it.
 
