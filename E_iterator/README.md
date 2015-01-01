@@ -39,6 +39,7 @@ itr = ArrayIterator.new(arr)
 while itr.has_next?
 	p "Array element at position #{itr.index} is  #{itr.item}"
 end
+```
 
 #### An internal iterator in ruby looks like
 
