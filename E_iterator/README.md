@@ -46,9 +46,10 @@ end
 ```ruby
 arr = [1,67,9,34,99,23,5,11]
 arr.each {|x| p "Array item is #{x}"}
+```
 
 or in reverse
-
+```ruby
 arr.reverse_each {|x| p "Array item is #{x}"}
 ```
 
@@ -56,7 +57,7 @@ arr.reverse_each {|x| p "Array item is #{x}"}
 
 The `Enumerable` module offers us an easier way to implement the iterator behaviour into our classes, all we need to do is to include the module into out classes. The only two things that we need to do is to provide a sensible implementation of the `each` and the `<=>` methods. The first is to iterate and the second is to compare to Enumerable objects.
 
-### Example, 
+### Example, Planets and Galaxy
 
 ```ruby
 class Planet
