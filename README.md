@@ -6,7 +6,7 @@
 2. [Observer] (https://github.com/mvemjsun/design_patterns/tree/master/C_observer)
 3. [Composite]
 4. [Strategy] (https://github.com/mvemjsun/design_patterns/tree/master/B_strategy)
-5. [Iterator]
+5. [Iterator] (https://github.com/mvemjsun/design_patterns/tree/master/E_iterator)
 6. [Command]
 7. [Proxy]
 8. [Adaptor]
